@@ -1,3 +1,4 @@
+# Profile - Lewis C
 - 👋 Hi, I’m @LewisCau123
 - 👀 I’m interested in ...
 - 🌱 I’m currently undertaking an apprenticeship in software engineering!
