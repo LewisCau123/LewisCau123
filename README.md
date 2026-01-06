@@ -1,6 +1,6 @@
 # Profile - Lewis C
 - 👋 Hi, I’m @LewisCau123
-- 👀 I’m interested in learning pythin currently but also very interested in cloud security!
+- 👀 I’m interested in learning python currently but also very interested in cloud security!
 - 🌱 I’m currently undertaking an apprenticeship in software engineering!
 - 💞️ I’m looking to collaborate on all things software, as im trying to improve my knowledge and skills.
 - 📫 How to reach me ...
