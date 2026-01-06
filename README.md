@@ -1,4 +1,4 @@
-# Profile - Lewis C
+# Profile - Lewis Caulfield
 - 👋 Hi, I’m @LewisCau123
 - 👀 I’m interested in learning python currently but also very interested in cloud security!
 - 🌱 I’m currently undertaking an apprenticeship in software engineering!
